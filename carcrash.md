@@ -1,4 +1,4 @@
-##Challenge Description : 
+## Challenge Description : 
 
 DEADFACE has been researching companies connected to one of their latest targets. Among the files recovered was a photo of a traffic accident involving a commercial truck.
 
