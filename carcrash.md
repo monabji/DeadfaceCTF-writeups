@@ -6,7 +6,7 @@ We believe the truck may identify a company DEADFACE has taken an interest in. D
 
 Submit the flag as: `deadface{MM_DD_YYYY}`. Example: `deadface{01_20_2026}`
 
-truck_crash.png
+![Truck crash](https://deadface.sfo3.cdn.digitaloceanspaces.com/2026/challenges/osint/osint05/truck_crash.png)
 
 ## Solution :
 
